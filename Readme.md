@@ -120,18 +120,18 @@ anti norak 😹 😹
 
 ---
 
-## 🏆 Project Showcase / Highlight
+## 🏆 Project Gsbht
 
 ### 🔹 tools spam ngl 🗿 
-- Deskripsi singkat project, screenshot/GIF
-- [Repo Link](https://github.com/Nanaaaw999/project-iseng)
+- Deskripsi singkat project, screenshot,fitur, spam 
+- [Repo Link](https://github.com/Nanaaaw999/Ngl-Spam-Tools)
 
-### 🔹 Tugas Sekolah Keren
-- Deskripsi singkat, GIF demo
+### 🔹 not found 
+- Deskripsi singkat
 - [Repo Link](https://github.com/Nanaaaw999/tugas-sekolah)
 
-### 🔹 Eksperimen AI Fun
-- Deskripsi singkat, GIF demo
+### 🔹 not found 
+- Deskripsi singkat,
 - [Repo Link](https://github.com/Nanaaaw999/ai-experiment)
 
 ---
@@ -188,6 +188,8 @@ anti norak 😹 😹
 
 ## ✨ Kata Kata  
 
+---
 hidup tidak selalu bercanda 
+---
 
 ## Nana sg2 alok
