@@ -4,9 +4,9 @@
   <img src="assets/welcome.gif" alt="Welcome GIF" width="400"/>
 </p>
 
-Selamat datang di profile GitHub gua! ✨  
-Gua anak introvert yang suka ngoding, kadang rajin kadang mager 😹  
-Di sini gua nyong share project-project iseng, tugas sekolah, eksperimen aneh², sampe tools gokil 🛠️  
+Selamat datang di profile GitHub gweh! ✨  
+gweh anak introvert yang suka ngoding, kadang rajin kadang MUALASS CIK 😹  
+Di sini gweh buat project-project iseng, tugas sekolah, eksperimen aneh², sampe tools gajelas 🛠️  
 
 ---
 
@@ -25,7 +25,7 @@ Di sini gua nyong share project-project iseng, tugas sekolah, eksperimen aneh²,
 
 ---
 
-## 🛠️ Alat Tempur / Tools Tambahan  
+## 🛠️ Alat Tempur  
 
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)  
 ![MT Manager](https://img.shields.io/badge/MT_Manager-FF6F61?style=for-the-badge&logo=android&logoColor=white)  
@@ -62,7 +62,7 @@ Di sini gua nyong share project-project iseng, tugas sekolah, eksperimen aneh²,
 
 ---
 
-## 🤖 AI Fun / Senang-Senang  
+## 🤖 AI Fun buat seneng seneng 
 
 Kadang ngoding & ngoprek itu bikin stres 😅  
 Makanya gua suka main AI buat hiburan, eksperimen, atau sekadar senang-senang 😎  
@@ -71,12 +71,12 @@ Makanya gua suka main AI buat hiburan, eksperimen, atau sekadar senang-senang �
   <img src="assets/wewokdetok.gif" alt="AI Fun GIF" width="400"/>
 </p>
 
-Beberapa AI favorit gua:  
+Beberapa AI favorit gweh:  
 
-- **GPT (OpenAI)** – ngobrol random, bikin prompt unik, kadang partner curhat 🤭  
+- **GPT (OpenAI)** – ngobrol random, bikin gambar unik, kadang partner curhat 🤭  
 - **Gemini** – AI canggih buat ide & kreatifitas 💡  
 - **DeepSeek** – nyari referensi & eksplorasi konten visual 🔍  
-- **z.ai** – eksperimen CLI / web random, fun coding 😎  
+- **z.ai** – buat benerin code eror wkkw😎  
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPT-00A1F1?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
@@ -87,9 +87,9 @@ Beberapa AI favorit gua:
 
 ---
 
-## 🎵 Lagu Favorit (Top 20)
+## 🎵 Lagu Favorit gweh (Top 20)
 
-Ini lagu-lagu favorit gua, bikin happy, fokus coding, atau hiburan 😎  
+anti norak 😹 😹 
 
 <p align="center">
   <img src="assets/music.gif" alt="Music GIF" width="300"/>
@@ -122,7 +122,7 @@ Ini lagu-lagu favorit gua, bikin happy, fokus coding, atau hiburan 😎
 
 ## 🏆 Project Showcase / Highlight
 
-### 🔹 Project Iseng Tools Gokil
+### 🔹 tools spam ngl 🗿 
 - Deskripsi singkat project, screenshot/GIF
 - [Repo Link](https://github.com/Nanaaaw999/project-iseng)
 
@@ -136,15 +136,15 @@ Ini lagu-lagu favorit gua, bikin happy, fokus coding, atau hiburan 😎
 
 ---
 
-## 🎲 Fun Stats / Random Facts
+## 🎲 Fun Stats
 
-- ☕ Kopi diminum saat ngoding: 124  
-- 💻 Script aneh dibuat: 56  
-- 🤯 Error bikin ngakak: 32  
+- ☕ Kopi diminum saat ngoding: 99999999  
+- 💻 Script aneh dibuat: 86  
+- 🤯 Error bikin stress: 9999999999  
 
 ---
 
-## 🏅 Badges Tambahan
+## BACA SENDIRI 
 
 ![Open for Collaboration](https://img.shields.io/badge/Open_for_Collaboration-4ABDAC?style=for-the-badge&logo=github&logoColor=white)  
 ![Currently Learning](https://img.shields.io/badge/Currently_Learning-PHP%20%26%20Python-FF6F61?style=for-the-badge&logo=code&logoColor=white)  
@@ -178,15 +178,15 @@ Ini lagu-lagu favorit gua, bikin happy, fokus coding, atau hiburan 😎
 
 ## 📝 About Me  
 
-- Suka ngoprek code pas malem 🌙  
-- Kadang bikin script aneh tapi bermanfaat 😅  
-- Suka belajar hal baru & berbagi tips ngoding  
-- Kalo gabut, main musik / denger Spotify 🎶  
+- suka kamu 🤭🤭 
+- Kadang bikin script aneh tapi ga bermanfaat 😅  
+- Suka belajar hal baru & suka main ml sampe stres  
+- Kalo gabut, jahilin bubub  / denger Spotify 🎶  
 
 ---
 
-## ✨ Kata Kata Penutup  
+## ✨ Kata Kata  
 
-Hidup ga selalu serius, kadang perlu ketawa sama error di terminal 🤯  
-Semoga profile gua bikin lu senyum, ketawa, atau minimal dapet inspirasi buat ngoding 😎  
-Jangan lupa follow / stalk repo² gua, siapa tau besok ada project random yg berguna atau bikin ngakak 🤣
+hidup tidak selalu bercanda 
+
+## Nana sg2 alok
