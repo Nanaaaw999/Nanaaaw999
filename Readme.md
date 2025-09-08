@@ -151,9 +151,28 @@ Ini lagu-lagu favorit gua, bikin happy, fokus coding, atau hiburan 😎
 
 ---
 
-## 💬 Quote / Motivasi Coding
+## 💬 Quote 
 
-> “Hidup itu bug, tapi kita bisa debug 😎”  
+> “Hidup itu bug, tapi kita bisa debug 😎”
+> “Code itu kayak kopi, makin pahit makin bikin melek ☕💻”
+
+> “Bug hanyalah pesan cinta dari komputer biar kita gak lupa sama dia 😹”
+
+> “Ngoding itu gampang, yang susah itu ngejelasin ke orang tua kerjaan kita 😅”
+
+> “Kadang error bikin stress, kadang bikin ngakak, tapi tetep bikin jatuh cinta sama coding 😎”
+
+> “Hidup itu kayak Git, kalau salah jalan tinggal checkout branch baru 🌱”
+
+> “Sleep early? No, I debug at 3 AM 🔥”
+
+> “Kalau hidup error, coba aja npm install happiness ✨”
+
+> “Mau kaya atau miskin, semua programmer sama: selalu salah titik koma 😭”
+
+> “404 Motivation Not Found, tapi tetep gaskeun 🚀”
+
+> “Commit kecil hari ini, bisa jadi repo gede besok 😉” 
 
 ---
 
