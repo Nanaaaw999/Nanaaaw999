@@ -154,6 +154,7 @@ anti norak 😹 😹
 ## 💬 Quote 
 
 > “Hidup itu bug, tapi kita bisa debug 😎”
+
 > “Code itu kayak kopi, makin pahit makin bikin melek ☕💻”
 
 > “Bug hanyalah pesan cinta dari komputer biar kita gak lupa sama dia 😹”
