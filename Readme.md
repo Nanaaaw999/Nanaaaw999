@@ -64,8 +64,7 @@ Di sini gweh buat project-project iseng, tugas sekolah, eksperimen aneh², sampe
 
 ## 🤖 AI Fun buat seneng seneng 
 
-Kadang ngoding & ngoprek itu bikin stres 😅  
-Makanya gua suka main AI buat hiburan, eksperimen, atau sekadar senang-senang 😎  
+sesuai judul
 
 <p align="center">
   <img src="assets/wewokdetok.gif" alt="AI Fun GIF" width="400"/>
